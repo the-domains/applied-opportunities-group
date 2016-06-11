@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Applied Opportunities Group]]></title>
         <description><![CDATA[Applied Opportunities Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/applied-opportunities-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 09:19:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 11 Jun 2016 09:19:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/applied-opportunities-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The inevitable should be forced vigorously into its occurence.</p>]]></description>
+            <link>https://thegrid.ai/applied-opportunities-group/the-inevitable-should-be-forced-vigorously-into-its-occurenc/index.html</link>
+            <guid isPermaLink="false">38384ff8-5487-4036-8138-9428a5f08cc7</guid>
+            <pubDate>Sat, 11 Jun 2016 09:19:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b91f7807-8495-48d6-9d06-757cc786f776.jpg">]]></description>
-            <link>undefinedb1807acb-6dcc-49a8-9b33-650f49f02693/index.html</link>
+            <link>https://thegrid.ai/applied-opportunities-group/b1807acb-6dcc-49a8-9b33-650f49f02693/index.html</link>
             <guid isPermaLink="false">b1807acb-6dcc-49a8-9b33-650f49f02693</guid>
             <pubDate>Sat, 11 Jun 2016 09:19:12 GMT</pubDate>
         </item>
