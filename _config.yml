@@ -1,19 +1,4 @@
-name: Applied Opportunities Group
-favicon: null
-layout_spectrum: 0.4715035050176084
 typography_spectrum: 0.33086
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.25640366156585515
   saturation: 0.8625181477982551
   rhythmicContrast: 0.0005503955762833357
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4715035050176084
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Applied Opportunities Group
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: The inevitable should be forced vigorously into it
 purpose: []
